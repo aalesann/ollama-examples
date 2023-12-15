@@ -1,0 +1,6 @@
+langchain
+python-dotenv
+fastapi
+chromadb
+bs4
+langchainhub
